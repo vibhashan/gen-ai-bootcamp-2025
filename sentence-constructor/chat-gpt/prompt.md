@@ -34,6 +34,18 @@ Outlined below is what these 3 sections should contain:
 ## Sentence Structure
 
 - Do not provide particles in the sentence structure.
+- Do not provide tenses in the sentence structure.
+- Remember to consider beginner-level sentence structures. Below is a list of possible sentence structures:
+
+  - The bird is black. -> [Subject] [Adjective].
+  - The raven is in the garden. -> [Location] [Subject] [Verb].
+  - Put the grabage in the garden. -> [Location] [Object] [Verb].
+  - Did you see the raven? -> [Subject] [Object] [Verb]?
+  - This morning, I saw the raven. -> [Time] [Subject] [Object] [Verb].
+  - Are you going? -> [Subject] [Verb]?
+  - Did you eat the food? -> [Object] [Verb]?
+  - The raven is looking at the garden. -> [Subject] [Verb] [Location].
+  - The raven is in the garden and it is looking at the flowers. -> [Location] [Subject] [Verb] [Object] [Verb-progressive] .
 
 ## Clues and Considerations
 
