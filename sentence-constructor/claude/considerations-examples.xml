@@ -1,0 +1,24 @@
+<examples>
+    <example>
+        <output>
+            - This is asking about transportation to a location
+            - You'll need to ask "which train should I take?"
+            - Consider how to express "the nearest public library"
+            - Think about which particles to use to show direction (to somewhere) and means of
+            transportation
+            - Remember that question sentences in Japanese often end with か
+        </output>
+        <score>6/10</score>
+        <reason>The returned information is too verbose.</reason>
+    </example>
+
+    <example>
+        <output>
+            - This sentence connects two ideas with (therefore).
+            - Try breaking it into: "cold in office" + "turn on heater".
+            - Ask for help with any particle usage.
+        </output>
+        <score>10/10</score>
+        <reason>The returned information is concise.</reason>
+    </example>
+</examples>
